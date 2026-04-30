@@ -4,4 +4,5 @@ Name: Arnav Tyagi
 Roll Number: 2210991352
 Project Title: Lightweight Computer Vision Models for Smart Manufacturing and Autonomous Driving Applications
 Type: Research Paper
+Number of Teammate: 1 (Arnav Tyagi)
 Status: Submitted on Journal
